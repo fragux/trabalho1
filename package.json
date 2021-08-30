@@ -1,0 +1,24 @@
+{
+  "name": "trabalho1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm server lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fragux/trabalho1.git"
+  },
+  "author": "Ricardo Freitas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fragux/trabalho1/issues"
+  },
+  "homepage": "https://github.com/fragux/trabalho1#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
