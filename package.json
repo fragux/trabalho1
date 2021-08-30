@@ -20,5 +20,8 @@
   "homepage": "https://github.com/fragux/trabalho1#readme",
   "devDependencies": {
     "lite-server": "^2.6.1"
+  },
+  "dependencies": {
+    "bootstrap": "^4.0.0"
   }
 }
